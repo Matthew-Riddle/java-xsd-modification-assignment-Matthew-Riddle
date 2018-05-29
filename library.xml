@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <books title="How to lose your job in 10 days">
+        <genre>Reality</genre>
+        <date>2018-05-29T16:36:09.335-05:00</date>
+        <authors>
+            <author>
+                <firstName>Matthew</firstName>
+                <lastName>Riddle</lastName>
+            </author>
+            <author>
+                <firstName>Butch</firstName>
+                <lastName>SlamChest</lastName>
+            </author>
+        </authors>
+    </books>
+    <librarian librarianName="Janice">
+        <librarianAge>59</librarianAge>
+        <librarianSalary>5000.0</librarianSalary>
+    </librarian>
+    <libraryName>Haxorz</libraryName>
+    <libraryAddress>l33t st. Memphis, TN</libraryAddress>
+</library>
